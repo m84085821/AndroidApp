@@ -1,2 +1,3 @@
 this is line one
 this line is added by market
+conflict line
