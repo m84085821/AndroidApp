@@ -1,0 +1,7 @@
+this is line one
+this line is added by market
+<<<<<<< .merge_file_T7UN4x
+conflict line
+=======
+conflict resolved
+>>>>>>> .merge_file_fC0ZCq
